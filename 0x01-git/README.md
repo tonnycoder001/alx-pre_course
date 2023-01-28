@@ -1,7 +1,9 @@
-[master b5953d2] Starting to code today,so cool
- 5 files changed, 4 insertions(+)
- create mode 100644 0x01-git/bash/alx
- create mode 100644 0x01-git/bash/school
- create mode 100644 0x01-git/c/c_is_fun.c
- create mode 100644 0x01-git/js/index.js
- create mode 100644 0x01-git/js/main.js
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
