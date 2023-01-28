@@ -1,4 +1,4 @@
-On branch master
+ updated README file On branch master
 Your branch is up to date with 'origin/master'.
 
 Changes not staged for commit:
@@ -6,4 +6,4 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
 	modified:   README.md
 
-no changes added to commit (use "git add" and/or "git commit -a") updated
+no changes added to commit (use "git add" and/or "git commit -a") 
